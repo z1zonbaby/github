@@ -1,4 +1,4 @@
-import streamlit as streamlit
+import streamlit as st
 
 st.title('Hello, World!')
 st.write('Hello, World!')
